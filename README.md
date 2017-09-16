@@ -2,7 +2,7 @@
 
 Custom icons for Faba Icon Theme of the [Moka Project](https://snwh.org/moka) made by [Sam Hewitt](http://snwh.org/).
 
-<!---![](faba-extras/folder-mathematica.svg)
+![](faba-extras/folder-mathematica.svg)
 ![](faba-mimetypes/mimetypes/application-epub+zip.svg)
 ![](faba-mimetypes/mimetypes/application-mathematica.svg)
 ![](faba-mimetypes/mimetypes/application-vnd.adobe.adept+xml.svg)
@@ -16,7 +16,7 @@ Custom icons for Faba Icon Theme of the [Moka Project](https://snwh.org/moka) ma
 ![](faba-mimetypes/mimetypes/application-x-wine-extension-skp.svg)
 ![](faba-mimetypes/mimetypes/text-x-markdown.svg)
 ![](faba-mimetypes/mimetypes/text-x-ms-regedit.svg)
-![](faba-mimetypes/mimetypes/text-x-tex.svg)-->
+![](faba-mimetypes/mimetypes/text-x-tex.svg)
 
 Faba Icon Theme (the icon assets and sources) are licensed under a [GNU Lesser General Public License 3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html) license.
 
